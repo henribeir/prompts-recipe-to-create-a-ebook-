@@ -1,2 +1,1 @@
-# prompts-recipe-to-create-a-ebook-
-prompts-recipe-to-create-a-ebook  
+Projeto EBOOK Gerado por I.A.s instruido por Dio.
